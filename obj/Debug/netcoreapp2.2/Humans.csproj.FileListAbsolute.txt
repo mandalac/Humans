@@ -1,0 +1,11 @@
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/bin/Debug/netcoreapp2.2/Humans.deps.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/bin/Debug/netcoreapp2.2/Humans.runtimeconfig.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/bin/Debug/netcoreapp2.2/Humans.runtimeconfig.dev.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/bin/Debug/netcoreapp2.2/Humans.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/bin/Debug/netcoreapp2.2/Humans.pdb
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.csprojAssemblyReference.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.csproj.CoreCompileInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.AssemblyInfoInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.AssemblyInfo.cs
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Humans/obj/Debug/netcoreapp2.2/Humans.pdb
